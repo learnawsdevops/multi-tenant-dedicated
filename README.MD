@@ -112,6 +112,6 @@ This setup supports seamless multi-tenant onboarding with minimal changes and en
 
 ## Architecture
 
-![alt text](multi-tenant-eks.jpg)
+![alt text](multi-tenant-dedicated-arch.png)
 
 
