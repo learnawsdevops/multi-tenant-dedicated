@@ -108,6 +108,10 @@ https://tenant3.hiteshshop.store
 
 This setup supports seamless multi-tenant onboarding with minimal changes and ensures tenant isolation using modular VPC and ALB per tenant.
 
+---
 
+## Architecture
+
+![alt text](multi-tenant-eks.jpg)
 
 
